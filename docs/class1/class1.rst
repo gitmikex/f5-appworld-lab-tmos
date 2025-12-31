@@ -31,5 +31,5 @@ Contents:
    :glob:
 
    labinfo
-   module*/module*
+   modules/module*
 
