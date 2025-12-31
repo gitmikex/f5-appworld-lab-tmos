@@ -273,4 +273,4 @@ Persistence information is only send when a new persistence record is created or
    :glob:
 
    labinfo
-   module*/module*
+   Module*/Lab*

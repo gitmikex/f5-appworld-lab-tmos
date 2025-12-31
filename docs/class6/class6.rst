@@ -10,4 +10,5 @@ Expected time to complete: **1 hour**
    :glob:
 
    intro
-   module*/module*
+   Module*/Lab*
+   Module*/module*

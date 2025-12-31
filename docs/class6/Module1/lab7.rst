@@ -99,25 +99,22 @@ In Task 3, we will create a simple HTTP Virtual Server object.  This will be use
 
 #. From the Configuration section, at the Basic drop-down, select Advanced, and Configure the following settings:
      .. image:: ../images/image140.png
+
     -  **HTTP Profile (Client):**  http
     -  **Source Address Translation:**  From the drop-down, select AutoMap:
 
-
        .. image:: ../images/image148.png
-
 
     -  **Connection Mirroring:**  Place a checkmark on this setting
 
-
        .. image:: ../images/image141.png
 
-
        .. image:: ../images/image143.png
-
           
     - Under the  **Resources:** Section, Define the following settings, and Click the "Finished" Button:
        -  **Default Pool:**  server_pool
        -  **Default Persistence Profile:**  source_addr_mirror_persist
+       
      .. image:: ../images/image142.png
 
 You should be presented with the following Virtual Server object after creation:
