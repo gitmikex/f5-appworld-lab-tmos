@@ -1,5 +1,5 @@
-Introduction to ADC Deployments with BIG-IP LTM
-===============================================
+F5 AppWorld Lab - TMOS Architecture
+=====================================
 
 This two-hour hands-on lab will guide participants through the architectural fundamentals BIG-IP TMOS operating system and learn the basic building blocks for all other BIG-IP solutions. Attendees will gain practical experience in understanding, deploying, configuring, and managing the basic configurable elements in TMOS which is the core component of the BIG-IP Application Delivery & Security Platform. By the end of the lab, participants will have a deeper understanding on the architecture of TMOS and design principles, core structure of the configurable objects, and how they are able to work together to deliver your critical business and mission critical applications in an enterprise environment.
  

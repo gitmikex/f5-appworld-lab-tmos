@@ -5,10 +5,10 @@
 # ------------
 #
 # REQUIRED: Your class/lab name
-classname = "F5 Application Delivery Controller Solutions"
+classname = "AppWorld Lab - TMOS Architecture"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
-github_repo = "https://github.com/f5devcentral/f5-agility-labs-adc"
+github_repo = "https://github.com/gitmikex/f5-appworld-lab-tmos-arch/tree/develop"
 
 #
 # END CONFIG
@@ -88,7 +88,7 @@ try:
     else:
         git_branch_name = os.environ.get('READTHEDOCS_VERSION', None)
 except:
-    git_branch_name = 'master'
+    git_branch_name = 'main'
 
 print("guessed git branch: %s" % git_branch_name)
 
@@ -171,8 +171,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = classname
-copyright = '2019, F5 Networks, Inc.'
-author = 'F5 Networks, Inc.'
+copyright = '2026, F5, Inc.'
+author = 'F5, Inc.'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -188,7 +188,7 @@ release = ''
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = "en_US"
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
