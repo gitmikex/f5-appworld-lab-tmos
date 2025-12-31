@@ -14,3 +14,4 @@ Welcome to the F5 AppWorld Lab - TMOS Architecture lab at F5 AppWorld |year|
    :glob:
 
    class*/class*
+   class*/labinfo*
