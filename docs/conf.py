@@ -66,7 +66,7 @@ if 'github_repo' in locals() and len(github_repo) > 0:
               opening an Issue within the repository.
 """ % (github_repo)
 else:
-    rst_prolog += ".. |repoinfo| replace:: \ \n"
+    rst_prolog += ".. |repoinfo| replace:: \\ \n"
 
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 on_snops = os.environ.get('SNOPS_ISALIVE', None) == 'True'
@@ -238,7 +238,7 @@ html_static_path = ["_static"]
 
 # -- Options for HTMLHelp output ------------------------------------------
 
-cleanname = re.sub('\W+','',classname)
+cleanname = re.sub('\\W+','',classname)
 
 # Output file base name for HTML help builder.
 htmlhelp_basename =  cleanname + 'doc'
