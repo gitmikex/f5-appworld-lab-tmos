@@ -17,7 +17,7 @@ First, you will need to log into **bigip01**. You will need create two untagged 
 1. From the sidebar select **Network** **> VLANs** then select
    **Create**
 
-.. image:: /_static/class1/image10.png
+.. image:: ../../_static/class1/image10.png
    :width: 3.29032in
    :height: 2.625in
 
