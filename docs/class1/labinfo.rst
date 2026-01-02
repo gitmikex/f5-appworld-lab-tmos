@@ -56,4 +56,4 @@ take for each lab:
 
 .. |image0| image:: ../_static/class1/image3.jpg
    :width: 12in
-   :height: 7in
+   :height: 10in
