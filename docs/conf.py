@@ -26,7 +26,7 @@ import f5_sphinx_theme
 smartquotes = False
 
 year = time.strftime("%Y")
-eventname = "Agility %s Hands-on Lab Guide" % (year)
+eventname = "AppWorld %s Hands-on Lab Guide" % (year)
 
 rst_prolog = """
 .. |classname| replace:: %s
