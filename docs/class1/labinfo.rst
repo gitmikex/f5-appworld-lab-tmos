@@ -50,6 +50,6 @@ take for each lab:
 | LAB 4 – Configure High Availability                  | 30 minutes       |
 +------------------------------------------------------+------------------+
 
-.. |image0| image:: ../_static/class1/image2.png
+.. |image0| image:: ../_static/class1/image3.jpg
    :width: 6.91010in
    :height: 3.27173in   
