@@ -41,15 +41,19 @@ take for each lab:
 +------------------------------------------------------+------------------+
 | LAB Name (Description)                               | Time Allocated   |
 +======================================================+==================+
-| LAB 1 – Configure Virtual Servers and Pools          | 35 minutes       |
+| LAB 1 - Networking, Pools and Virtual Servers        | 35 minutes       |
 +------------------------------------------------------+------------------+
-| LAB 2 – Work with SNAT, Profiles, and Monitors       | 45 minutes       |
+| LAB 2 - Load Balancing, Monitoring and Persistence   | 45 minutes       |
 +------------------------------------------------------+------------------+
-| LAB 3 – Use SSL Offload, Best Practices, and iApps   | 40 minutes       |
+| LAB 3 - SSL Offload and Security                     | 40 minutes       |
 +------------------------------------------------------+------------------+
-| LAB 4 – Configure High Availability                  | 30 minutes       |
+| LAB 4 - BIG-IP Policies and iRules                   | 30 minutes       |
++------------------------------------------------------+------------------+
+| LAB 5 - Support and Troubleshooting                  | 30 minutes       |
++------------------------------------------------------+------------------+
+| LAB 6 - Device Service Clusters (DSC)                | 30 minutes       |
 +------------------------------------------------------+------------------+
 
 .. |image0| image:: ../_static/class1/image3.jpg
-   :width: 6.91010in
-   :height: 3.27173in   
+   :width: 12in
+   :height: 7in

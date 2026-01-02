@@ -21,7 +21,7 @@ Contents:
 •	Lab 4: BIG-IP Policies and iRules
 •	Lab 5: Support and Troubleshooting
 •	Lab 6: Device Service Clusters (DSC)
-•	Bonus Lab - Traffic groups, iApps and Active-Active
+•	Bonus Lab - Traffic groups, and Active-Active
 
  Expected time to complete: 2 hours
 
